@@ -19,5 +19,5 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 ## 📸 Fotografía del Equipo
 <img width="1145" height="779" alt="WhatsApp Image 2026-08-27 at 5 34 17 PM" src="https://github.com/user-attachments/assets/a5dd4b23-3336-4044-be06-b0588521c3d6" />
 <p align="center">
-  Figura 1. Fotografía del equipo 01
+  *Figura 1. Fotografía del equipo 01*
 </p>

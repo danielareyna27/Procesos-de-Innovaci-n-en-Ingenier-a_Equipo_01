@@ -27,7 +27,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | Foto | Nombre | Rol | Intereses |
 | :---: | :--- | :--- |:--- |
 | <img width="60" height="75" alt="foto daniela" src="https://github.com/user-attachments/assets/13913987-23dd-4933-86de-d919703340ec" />| Daniela Reyna | Líder del grupo | Innovación social, planificación estratégica|
-| <img src="URL" width="80"> | Persona X | Responsable de investigación | Intereses |
+| <img width="60" height="75" alt="WhatsApp Image 2026-08-28 at 8 47 20 PM" src="https://github.com/user-attachments/assets/fd0d7831-8a6b-42a1-8ea0-a5db5b2b659b" /> | Antonio Ramirez | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="URL" width="80"> | Persona X | Diseñador/a | Intereses |
 | <img src="URL" width="80"> | Persona X | Encargado/a de documentación | Intereses |
 | <img src="URL" width="80"> | Persona X | Programador/a | Intereses |

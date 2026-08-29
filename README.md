@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img src="URL" width="80"> | Persona X | Diseñador/a | Intereses |
 | <img src="URL" width="80"> | Persona X | Encargado/a de documentación | Intereses |
 | <img src="URL" width="80"> | Persona X | Programador/a | Intereses |
-| <img src="URL_AQUÍ" width="80"> | Persona X | Modelador/a | Intereses |
+| <img width="60" height="75" alt="foto" src="https://github.com/user-attachments/assets/dcb417a0-bac8-4a9c-855a-4d8aae478315" />| Anderson Andrade | Modelador | Intereses |
 ***
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.

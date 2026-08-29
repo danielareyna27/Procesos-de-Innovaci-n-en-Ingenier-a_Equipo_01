@@ -22,7 +22,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
   Figura 1. Fotografía del equipo 01
 </p>
 
-
+***
 ## 👥 Integrantes del Equipo
 | Foto | Nombre | Rol | Intereses |
 | :---: | :--- | :--- |:--- |
@@ -32,3 +32,6 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img src="URL" width="80"> | Persona X | Encargado/a de documentación | Intereses |
 | <img src="URL" width="80"> | Persona X | Programador/a | Intereses |
 | <img src="URL_AQUÍ" width="80"> | Persona X | Modelador/a | Intereses |
+***
+## 📌 Resumen Final
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.

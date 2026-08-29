@@ -30,8 +30,8 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img width="60" height="75" alt="WhatsApp Image 2026-08-28 at 8 47 20 PM" src="https://github.com/user-attachments/assets/fd0d7831-8a6b-42a1-8ea0-a5db5b2b659b" /> | Antonio Ramirez | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="URL" width="80"> | Persona X | Diseñador/a | Intereses |
 | <img width="61" height="75" alt="IMG_6085" src="https://github.com/user-attachments/assets/82e6e565-1c94-4061-aa75-c9e303daa3f3" /> | Adriana Rodas | Encargada de documentación | Comunicación científica, redacción técnica |
-| <img width="60" height="75" alt="Foto Ricardo" src="https://github.com/user-attachments/assets/72893e3c-da47-43a6-b6b3-e265ddda3670" />| Ricardo Villacrez | Programador | Programación, simulación |
-| <img width="60" height="75" alt="foto" src="https://github.com/user-attachments/assets/dcb417a0-bac8-4a9c-855a-4d8aae478315" />| Anderson Andrade | Modelador | Intereses |
+| <img width="60" height="75" alt="Foto Ricardo" src="https://github.com/user-attachments/assets/72893e3c-da47-43a6-b6b3-e265ddda3670" />| Ricardo Villacrez | Programador | Programación |
+| <img width="60" height="75" alt="foto" src="https://github.com/user-attachments/assets/dcb417a0-bac8-4a9c-855a-4d8aae478315" />| Anderson Andrade | Modelador | Simulación |
 ***
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.

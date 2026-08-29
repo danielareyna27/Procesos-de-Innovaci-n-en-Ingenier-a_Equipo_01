@@ -22,10 +22,11 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
   Figura 1. Fotografía del equipo 01
 </p>
 
+
 ## 👥 Integrantes del Equipo
 | Foto | Nombre | Rol | Intereses |
 | :---: | :--- | :--- |:--- |
-| <img src="URL" width="80"> | Daniela Reyna | Líder del grupo | Intereses |
+| <img width="40" height="50" alt="foto daniela" src="https://github.com/user-attachments/assets/13913987-23dd-4933-86de-d919703340ec" />| Daniela Reyna | Líder del grupo | Intereses |
 | <img src="URL" width="80"> | Persona X | Responsable de investigación | Intereses |
 | <img src="URL" width="80"> | Persona X | Diseñador/a | Intereses |
 | <img src="URL" width="80"> | Persona X | Encargado/a de documentación | Intereses |

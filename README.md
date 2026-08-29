@@ -21,3 +21,13 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 <p align="center">
   Figura 1. Fotografía del equipo 01
 </p>
+
+## 👥 Integrantes del Equipo
+| Foto | Nombre | Rol | Intereses |
+| :---: | :--- | :--- |:--- |
+| <img src="URL" width="80"> | Persona X | Líder del grupo | Intereses |
+| <img src="URL" width="80"> | Persona X | Responsable de investigación | Intereses |
+| <img src="URL" width="80"> | Persona X | Diseñador/a | Intereses |
+| <img src="URL" width="80"> | Persona X | Encargado/a de documentación | Intereses |
+| <img src="URL" width="80"> | Persona X | Programador/a | Intereses |
+| <img src="URL_AQUÍ" width="80"> | Persona X | Modelador/a | Intereses |

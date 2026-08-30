@@ -1,11 +1,11 @@
-# Procesos-de-Innovaci-n-en-Ingenier-a_Equipo_01
+# Procesos-de-Innovaci-n-en-Ingenier-a_Equipo_05
 Carrera de Ingeniería Biomédica
 
 Universidad Peruana Cayetano Heredia
 ***
 Descripción del Equipo
 ---
-Somos el Equipo 01 del curso Procesos de Innovación en Ingeniería del curso 2026-2, conformado por estudiantes de la carrera de Ingeniería Biomédica.
+Somos el Equipo 05 del curso Procesos de Innovación en Ingeniería del curso 2026-2, conformado por estudiantes de la carrera de Ingeniería Biomédica.
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
